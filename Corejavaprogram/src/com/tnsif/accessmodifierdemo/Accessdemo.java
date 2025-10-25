@@ -10,8 +10,8 @@ package com.tnsif.accessmodifierdemo;
 public class Accessdemo {
 	
 	// public 
-	 int a=18;
-	String s="Meena N";
+	public int a=18;
+	 public String s="Meena N";
 	
 	public void display() {
 		System.out.println("welcome to java");
